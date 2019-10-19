@@ -1,0 +1,72 @@
+.bg-blue {
+  background-color: rgb(25, 118, 210) !important;
+}
+.brand {
+  height: 50px;
+  animation: brand-animation infinite 5s linear;
+}
+@keyframes brand-animation {
+    0% {
+        transform: scale(1,1)
+    }
+    50% {
+        transform: scale(1.05, 1.05)
+    }
+    60% {
+        transform: scale(0.95, 0.95)
+    }
+    100% {
+        transform: scale(1, 1)
+    }
+}
+.navbar {
+  box-shadow: 0 3px 3px rgba(0,0,0,.4);
+}
+.navbar-blue .navbar-brand {
+  color: #fff;
+}
+
+.navbar-blue .navbar-brand:hover, .navbar-blue .navbar-brand:focus {
+  color: #fff;
+}
+
+.navbar-blue .navbar-nav .nav-link {
+  color: rgb(25, 118, 210);
+}
+
+.navbar-blue .navbar-nav .nav-link:hover, .navbar-blue .navbar-nav .nav-link:focus {
+  color: rgba(25, 118, 210, 0.75);
+}
+
+.navbar-blue .navbar-nav .nav-link.disabled {
+  color: rgba(25, 118, 210, 0.25);
+}
+
+.navbar-blue .navbar-nav .show > .nav-link,
+.navbar-blue .navbar-nav .active > .nav-link,
+.navbar-blue .navbar-nav .nav-link.show,
+.navbar-blue .navbar-nav .nav-link.active {
+  color: #fff;
+}
+
+.navbar-blue .navbar-toggler {
+  color: rgb(25, 118, 210);
+  border-color: rgba(25, 118, 210, 0.1);
+}
+
+.navbar-blue .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3e%3cpath stroke='rgb(25, 118, 210)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+
+.navbar-blue .navbar-text {
+  color: rgb(25, 118, 210);
+}
+
+.navbar-blue .navbar-text a {
+  color: #fff;
+}
+
+.navbar-blue .navbar-text a:hover, .navbar-blue .navbar-text a:focus {
+  color: #fff;
+}
+
