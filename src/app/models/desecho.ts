@@ -5,5 +5,5 @@ export class Desecho {
   altitud: number;
   codigo: string;
   color: string;
-  punto: Punto;
+  punto: Punto; 
 }

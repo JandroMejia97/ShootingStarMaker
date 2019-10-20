@@ -11,4 +11,10 @@ export class Satelite {
   orbital: Orbital;
   desechos: Desecho[] = [];
   mision: Mision;
+
+  function mover(cantidad: number) {
+    this.altitud += cantidad;
+    this.combustible -= 1;
+  }
+
 }
