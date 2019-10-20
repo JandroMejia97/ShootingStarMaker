@@ -6,11 +6,17 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { ToolbarComponent } from './toolbar/toolbar.component';
 import { FooterComponent } from './footer/footer.component';
 import { NotFoundComponent } from './not-found/not-found.component';
+import { ModalOptionsComponent } from './modal/modal.component';
 
 
 
 @NgModule({
-  declarations: [ ToolbarComponent, FooterComponent, NotFoundComponent],
+  declarations: [
+    ToolbarComponent,
+    FooterComponent,
+    NotFoundComponent,
+    ModalOptionsComponent
+  ],
   imports: [
     CommonModule,
     NgbModule
@@ -18,7 +24,8 @@ import { NotFoundComponent } from './not-found/not-found.component';
   exports: [
     ToolbarComponent,
     FooterComponent,
-    NotFoundComponent
+    NotFoundComponent,
+    ModalOptionsComponent
   ]
 })
 export class SharedModule { }
