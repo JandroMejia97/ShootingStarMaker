@@ -1,0 +1,9 @@
+img {
+  height: 150px;
+
+}
+.center {
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}

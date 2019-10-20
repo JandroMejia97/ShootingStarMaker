@@ -1,1 +1,58 @@
-<p>about-us works!</p>
+
+<div *ngFor="let persona of personas" class="container">
+  <div class="row border">
+    <div class="col-10">
+
+      <div class="row border-bottom">
+        <div class="col-6">
+          Nombre
+        </div>
+        <div class="col-6">
+          {{ persona.nombre }}
+        </div>
+      </div>
+
+      <div class="row border-bottom">
+        <div class="col-6">
+          Edad
+        </div>
+        <div class="col-6">
+          {{ persona.edad }}
+        </div>
+      </div>
+
+      <div class="row border-bottom">
+        <div class="col-6">
+          Lugar de nacimiento
+        </div>
+        <div class="col-6">
+          {{ persona.lugarNacimiento }}
+        </div>
+      </div>
+
+      <div class="row border-bottom">
+        <div class="col-6">
+          Carrera
+        </div>
+        <div class="col-6">
+          {{ persona.carrera }}
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-6">
+          ¿Por qué te anotaste?
+        </div>
+        <div class="col-6">
+          {{ persona.razon }}
+        </div>
+      </div>
+
+    </div>
+
+    <div class="col-2 border-left center">
+      <img src="{{ persona.foto }}" alt="Foto de {{ persona.nombre }}">
+    </div>
+  </div>
+</div>
+<br>
