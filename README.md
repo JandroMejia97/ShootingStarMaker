@@ -421,6 +421,60 @@ In order to exemplify and insentivate users to think about projects with an econ
       Name
     </td>
     <td>
+      Salto,Emanuel
+    </td>
+	  <td rowspan=5>
+		  <img width=150px src="https://drive.google.com/uc?export=view&id=1VqeSk1tZvB0zAapYVtegxJdN6rWgxvIu" alt="Integrante">
+	  </td>
+  </tr>
+  <tr>
+	  <td>
+    	Age
+	  </td>
+	  <td>
+    	25
+	  </td>
+  </tr>
+  <tr>
+	  <td>
+    	Birthplace
+	  </td>
+	  <td>
+    	La Plata, Argentina
+	  </td>
+  </tr>
+  <tr>
+	  <td>
+    	Career
+	  </td>
+	  <td>
+    	Mechanical Engineering
+	  </td>
+  </tr>
+   <tr>
+	  <td>
+    	Why did you sign up?
+	  </td>
+	  <td>
+	    I wanted to use my head and left the challenge to luck with a coin.
+	  </td>
+  </tr>
+</table>
+
+<table>
+  <th>
+    <td width=400px>
+      Information
+    </td>
+    <td>
+      Image
+    </td>
+  </th>
+  <tr>
+    <td>
+      Name
+    </td>
+    <td>
       Ortiz, Gabriel
     </td>
     <td rowspan=5>
@@ -461,59 +515,6 @@ In order to exemplify and insentivate users to think about projects with an econ
   </tr>
 </table>
 
-<table>
-  <th>
-    <td width=400px>
-      Information
-    </td>
-    <td>
-      Image
-    </td>
-  </th>
-  <tr>
-    <td>
-      Name
-    </td>
-    <td>
-      Salto,Emanuel
-    </td>
-	  <td rowspan=5>
-		  <img width=150px src="https://drive.google.com/uc?export=view&id=1VqeSk1tZvB0zAapYVtegxJdN6rWgxvIu" alt="Integrante">
-	  </td>
-  </tr>
-  <tr>
-	  <td>
-    	Age
-	  </td>
-	  <td>
-    	25
-	  </td>
-  </tr>
-  <tr>
-	  <td>
-    	Birthplace
-	  </td>
-	  <td>
-    	La Plata, Argentina
-	  </td>
-  </tr>
-  <tr>
-	  <td>
-    	Career
-	  </td>
-	  <td>
-    	Mechanical Engineering
-	  </td>
-  </tr>
-   <tr>
-	  <td>
-    	Why did you sign up?
-	  </td>
-	  <td>
-	    I wanted to use my head and left the challenge to luck with a coin.
-	  </td>
-  </tr>
-</table>
 
 # _"El espacio que rodea a la Tierra es un recurso natural para ser preservado"_
 
