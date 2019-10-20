@@ -29,6 +29,32 @@ Concientes de que en la actualidad , la unica manera de desplazarce por el espac
 
 ## Acerca del equipo
 
+<table>
+  <th>
+    <td colspan="2">
+      Datos
+    </td>
+    <td>
+      Imagen
+    </td>
+  </th>
+  <tr>
+    <th>
+      Nombre:
+    </th>
+    <td>
+      Marengo, Augusto
+    </td>
+  </tr>
+</table>
+| :-------------------------- | :-------------------: | :-----------------: | 
+|                  |  | <td rowspan=5><img src="https://drive.google.com/uc?export=view&id=1Ekw4ZRRGvGNzT1uhOgZetAKEOO5eSRqz" alt="Diagrama de Casos de Uso - CTM">  </td> |  
+| **Edad:**                   | 19                      
+| **Lugar de nacimiento:**    | ncwbfb                  
+| **Carrera:**                | nijsnvib                
+| **¿Por qué te anotaste?:*** | donwofno                
+
+
 **Cunha de Meira**, Katylin Rainara                                       
 Edad: 22 años
 Lugar de nacimiento: São Roque, São Paulo, Brasil 
@@ -69,14 +95,7 @@ Edad:
 Lugar de nacimiento:
 Carrera:
 ¿Por qué te anotaste?:
-    <img src="https://drive.google.com/uc?export=view&id=1Ekw4ZRRGvGNzT1uhOgZetAKEOO5eSRqz" alt="Diagrama de Casos de Uso - CTM">
-
-**Marengo**, Augusto
-Edad:
-Lugar de nacimiento:
-Carrera:
-¿Por qué te anotaste?:
-    <img src="https://drive.google.com/uc?export=view&id=1Ekw4ZRRGvGNzT1uhOgZetAKEOO5eSRqz" alt="Diagrama de Casos de Uso - CTM">
+    <img src="https://drive.google.com/uc?export=view&id=1Ekw4ZRRGvGNzT1uhOgZetAKEOO5eSRqz" alt="Diagrama de Casos de Uso - CTM">  
 
 **Ortíz**, Gabriel
 Edad:
