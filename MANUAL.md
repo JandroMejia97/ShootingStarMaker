@@ -17,19 +17,19 @@ The first levels are developed at low altitudes and their difficulty will be low
 The higher levels will be developed at higher altitude which makes them more difficult since the player in addition to having to face a greater amount of garbage, which will increase the chances of colliding, will be further from the earth's surface , this will make the return of the satellite more difficult to fire the shooting stars that may be requested, adding as difficulty the excessive fuel expenditure that this requires.
 
 
-## Missions
+### Missions
 There are two types of missions in the game:
 
   - Orbit cleaning
   - Orders of fleeting entrellas upon request.
 
-## The  money
+### The  money
 The money obtained with the fulfillment of the missions can be used to:
 
   - Ship improvements
   - Buy necessary fuel
 
-## The end
+### The end
 The game will come to an end for three reasons:
 
   - 100% waste collection (Overcome all missions)
