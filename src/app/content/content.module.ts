@@ -8,13 +8,15 @@ import { ContentRoutingModule } from './content-routing.module';
 import { GameComponent } from './game/game.component';
 import { CanvasComponent } from './game/canvas/canvas.component';
 import { ControlPanelComponent } from './game/control-panel/control-panel.component';
+import { AboutUsComponent } from './about-us/about-us.component';
 
 @NgModule({
   declarations: [
     HomeComponent,
     GameComponent,
     CanvasComponent,
-    ControlPanelComponent
+    ControlPanelComponent,
+    AboutUsComponent
   ],
   imports: [
     CommonModule,
