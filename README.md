@@ -15,7 +15,7 @@ In addition to meeting the objectives proposed by the challenge, we consider tha
 ## Development
 
 As a starting point to carry out the video game, we worked on data obtained through the **NASA SPACEBIRDS** platform, which were the speed at which they travel, how far from the earth they are and their continuity, seeking show them on screen to the user.
-The videogame is based on the player's control of a space garbage collection satellite, which will operate in the range of orbits **LEO** (low Earth orbit). We decided to place its development in this orbit given that more than 70% of the local space debris is in it and it is cheaper to send satellites there compared to, for example, orbit ** GEO **.
+The videogame is based on the player's control of a space garbage collection satellite, which will operate in the range of orbits **LEO** (low Earth orbit). We decided to place its development in this orbit given that more than 70% of the local space debris is in it and it is cheaper to send satellites there compared to, for example, orbit **GEO**.
 The objective will be to collect small objects. From 101 mm. (4 in.) Objects begin to be detected by _United States Space Surveillance Agency_ and therefore, know their location in real time.
 
 <p align="center">
@@ -516,7 +516,7 @@ In order to exemplify and insentivate users to think about projects with an econ
 </table>
 
 
-# _"El espacio que rodea a la Tierra es un recurso natural para ser preservado"_
+# _"El espacio que rodea a la Tierra es un recurso natural que debe ser preservado"_
 
 ## Material de consulta
 
