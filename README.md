@@ -520,6 +520,9 @@ In order to exemplify and insentivate users to think about projects with an econ
 
 ## Material de consulta
 
+**Project Estructure**
+<img width=600px src="https://drive.google.com/uc?export=view&id=1FFdSMCzHKafg7uJu0n7NMIuYrHHw9U0g" alt="Integrante">
+
 **Read the game manual of the game video**
 [https://github.com/JandroMejia97/ShootingStarMaker/blob/master/MANUAL.md](https://github.com/JandroMejia97/ShootingStarMaker/blob/master/MANUAL.md)
 
