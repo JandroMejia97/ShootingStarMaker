@@ -27,6 +27,8 @@ It will be assumed that all satellite systems will be powered by solar energy.
 It will take into account the fact that being in the same orbit as another object, the distance between it and our satellite will not vary because they will be traveling at the same speed.
 In order to exemplify and insentivate users to think about projects with an economic purpose that serve as a solution to the problem, the rest of the mass collected will be used as raw material in a venture to sell shooting stars on demand, which will be a product to propel the charge into the atmosphere and be incinerated by it, generating the desired beam of light.
 
+[Read the game manual]: https://github.com/JandroMejia97/ShootingStarMaker/blob/master/MANUAL.md
+
 ## About Us
 
 <table>
