@@ -1,6 +1,6 @@
 # #SPACEAPPS2019
 
-Hello! we are **_ SERENDIPIA _** a group formed by students of Mechanical Engineering, computer engineering, plastic arts, multimedia design and a creative informatic.
+Hello! we are **_ SERENDIPIA _** a team formed by students of Mechanical Engineering, computer engineering, plastic arts, multimedia design and a creative informatic.
 In this edition of the _NASA International Space Apps Challenge_ we will address the challenge **"Orbital scrap metal - The video game"**
 
 ## Why do we choose this challenge?
