@@ -491,7 +491,7 @@ In order to exemplify and insentivate users to think about projects with an econ
       Ortiz, Gabriel
     </td>
     <td rowspan=5>
-      <img width=150px src="" alt="Integrante">
+      <img width=150px src="https://drive.google.com/uc?export=view&id=1JCDBMFEt-EGkxS9bv0zOTmPMoe5-K2id" alt="Integrante">
     </td>
   </tr>
   <tr>
@@ -499,7 +499,7 @@ In order to exemplify and insentivate users to think about projects with an econ
     	Age
 	  </td>
 	  <td>
-    	...
+    	35
 	  </td>
   </tr>
   <tr>
@@ -507,7 +507,7 @@ In order to exemplify and insentivate users to think about projects with an econ
     	Birthplace
 	  </td>
 	  <td>
-    	...
+    	Berazategui, Argentina
 	  </td>
   </tr>
   <tr>
@@ -515,7 +515,7 @@ In order to exemplify and insentivate users to think about projects with an econ
     	Career
 	  </td>
 	  <td>
-    	...
+     	Degree in Computer Science
 	  </td>
   </tr>
   <tr>
@@ -523,7 +523,7 @@ In order to exemplify and insentivate users to think about projects with an econ
     	Why did you sign up?
 	  </td>
 	  <td>
-	    ...	
+	    Search for new challenges.
 	  </td>
   </tr>
 </table>

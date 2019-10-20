@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
-import { Persona } from '../models/Persona';
-import { PERSONAS } from '../data/mock-personas';
+import { Persona } from '../../models/Persona';
+import { PERSONAS } from '../../data/mock-personas';
 
 @Component({
   selector: 'app-about-us',

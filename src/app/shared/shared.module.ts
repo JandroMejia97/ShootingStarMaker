@@ -7,6 +7,7 @@ import { ToolbarComponent } from './toolbar/toolbar.component';
 import { FooterComponent } from './footer/footer.component';
 import { NotFoundComponent } from './not-found/not-found.component';
 import { ModalOptionsComponent } from './modal/modal.component';
+import { AppRoutingModule } from '../app-routing.module';
 
 
 
@@ -18,6 +19,7 @@ import { ModalOptionsComponent } from './modal/modal.component';
     ModalOptionsComponent
   ],
   imports: [
+    AppRoutingModule,
     CommonModule,
     NgbModule
   ],

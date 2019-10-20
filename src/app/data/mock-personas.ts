@@ -67,10 +67,10 @@ export const PERSONAS: Persona[] = [
     },
     {
       nombre: 'Ortíz, Gabriel',
-      edad: 25,
-      lugarNacimiento: '...',
-      carrera: '...',
-      razon: '...',
-      foto: '...'
+      edad: 35,
+      lugarNacimiento: 'Berazategui, Argentina',
+      carrera: 'Licenciatura en Informática',
+      razon: 'Búsqueda de nuevos retos.',
+      foto: 'https://drive.google.com/uc?export=view&id=1JCDBMFEt-EGkxS9bv0zOTmPMoe5-K2id'
     }
   ];
