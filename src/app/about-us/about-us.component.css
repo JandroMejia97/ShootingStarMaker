@@ -6,3 +6,6 @@ img {
   display: flex;
   align-items: center;
 }
+.container {
+  margin: 15px;
+}

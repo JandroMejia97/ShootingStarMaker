@@ -421,7 +421,7 @@ In order to exemplify and insentivate users to think about projects with an econ
       Name
     </td>
     <td>
-      Salto,Emanuel
+      Salto, Emanuel
     </td>
 	  <td rowspan=5>
 		  <img width=150px src="https://drive.google.com/uc?export=view&id=1VqeSk1tZvB0zAapYVtegxJdN6rWgxvIu" alt="Integrante">
