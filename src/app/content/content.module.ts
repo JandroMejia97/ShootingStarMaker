@@ -9,6 +9,7 @@ import { GameComponent } from './game/game.component';
 import { CanvasComponent } from './game/canvas/canvas.component';
 import { ControlPanelComponent } from './game/control-panel/control-panel.component';
 import { SharedModule } from '../shared/shared.module';
+import { DemoComponent } from './demo/demo.component';
 
 
 @NgModule({
@@ -18,7 +19,8 @@ import { SharedModule } from '../shared/shared.module';
     CanvasComponent,
     ControlPanelComponent,
     AboutUsComponent,
-    StartComponent
+    StartComponent,
+    DemoComponent
   ],
   imports: [
     CommonModule,

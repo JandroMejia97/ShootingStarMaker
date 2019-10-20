@@ -5,6 +5,7 @@ import { GameComponent } from './content/game/game.component';
 import { AboutUsComponent } from './content/about-us/about-us.component';
 import { HomeComponent } from './content/home/home.component';
 import { StartComponent } from './content/game/start/start.component';
+import { DemoComponent } from './content/demo/demo.component';
 
 const routes: Routes = [
   {
@@ -18,6 +19,10 @@ const routes: Routes = [
   {
     path: 'game/start',
     component: StartComponent
+  },
+  {
+    path: 'game/demo',
+    component: DemoComponent
   },
   {
     path: 'about',

@@ -14,6 +14,7 @@ import { AboutUsComponent } from './content/about-us/about-us.component';
 import { SidebarModule } from 'ng-sidebar';
 import { StartComponent } from './content/game/start/start.component';
 import { RouterModule } from '@angular/router';
+import { DemoComponent } from './content/demo/demo.component';
 
 @NgModule({
   declarations: [
@@ -23,7 +24,8 @@ import { RouterModule } from '@angular/router';
     CanvasComponent,
     ControlPanelComponent,
     AboutUsComponent,
-    StartComponent
+    StartComponent,
+    DemoComponent
   ],
   imports: [
     AppRoutingModule,
