@@ -11,7 +11,6 @@ import { GameComponent } from './content/game/game.component';
 import { CanvasComponent } from './content/game/canvas/canvas.component';
 import { ControlPanelComponent } from './content/game/control-panel/control-panel.component';
 import { AboutUsComponent } from './content/about-us/about-us.component';
-import { BodyComponent } from './content/body/body.component';
 import { SidebarModule } from 'ng-sidebar';
 
 @NgModule({
@@ -21,8 +20,7 @@ import { SidebarModule } from 'ng-sidebar';
     GameComponent,
     CanvasComponent,
     ControlPanelComponent,
-    AboutUsComponent,
-    BodyComponent
+    AboutUsComponent
   ],
   imports: [
     BrowserModule,
