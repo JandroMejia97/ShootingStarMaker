@@ -1,7 +1,9 @@
 <ng-sidebar-container>
 
   <!-- A sidebar -->
-  <ng-sidebar [(opened)]="true">
+  <ng-sidebar
+    [(opened)]="opened"
+    [position]="'right'">
     <p>Sidebar contents</p>
   </ng-sidebar>
   <!-- Page content -->

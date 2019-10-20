@@ -6,6 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./control-panel.component.css']
 })
 export class ControlPanelComponent implements OnInit {
+  private opened = true;
 
   constructor() { }
 
