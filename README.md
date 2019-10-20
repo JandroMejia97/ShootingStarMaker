@@ -38,7 +38,12 @@ In order to exemplify and insentivate users to think about projects with an econ
 <img width=800px src="https://drive.google.com/uc?export=view&id=1AQ016ENS-65X_TxK3zehawu3eRfjn5N3" alt="General view, with deployment of energy supply mechanism">
 
 ### **Project Estructure**
+
+#### **Project Modules**
 <img width=600px src="https://drive.google.com/uc?export=view&id=1FFdSMCzHKafg7uJu0n7NMIuYrHHw9U0g" alt="Diagrama del sistema">
+
+#### **Data Logic Model**
+<img width=600px src="https://drive.google.com/uc?export=view&id=1-NN0XOUDavtt-8UCzWrgmiYRxygrf8_K" alt="Diagrama del modelo lógico del sistema">
 
 ## About Us
 
