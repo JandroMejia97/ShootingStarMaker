@@ -1,533 +1,529 @@
 # #SPACEAPPS2019
 
-Hola !, nosotros somo ***SERENDIPIA*** un grupo formado por estudiantes de ingenieria mecanica, ingenieria en informatica, artes plasticas, diseño multimedial y un informatico creativo.
-En esta edicion del *NASA international space apps challenge* abordaremos el desafio **"Orbital scrap metal - El videojuego"**
+Hello! we are **_ SERENDIPIA _** a group formed by students of Mechanical Engineering, computer engineering, plastic arts, multimedia design and a creative informatic.
+In this edition of the _NASA International Space Apps Challenge_ we will address the challenge **"Orbital scrap metal - The video game"**
 
-## ¿Porque elegimos este desafio ?
+## Why do we choose this challenge?
 
-Entendimos que la problematica de la basura espacial, es un asunto de rigor el cual debe ser tratado a la brevedad y sobre el cual, a nuestro entender, no se estan llevando a cabo politicas concretas con el fin de solucionarlo. 
-La cantidad de basura espacial aumenta año a año a causa de la frecuencia con la que se envian objetos al espacio y esta seguira aumentando incluso si se lo dejara de hacer debido a la posible colisión de los que ya se encuentran orbitando.
+We understood that the problem of space debris is a matter of rigor which must be dealt with shortly and on which, in our opinion, no specific policies are being carried out in order to solve it.
+The amount of space debris increases year by year because of the frequency with which objects are sent to space and this will continue to increase even if it is stopped due to the possible collision of those already in orbit.
 
+## Goals
 
+In addition to meeting the objectives proposed by the challenge, we consider that the development of the video game is based on solutions whose feasibility of realization is the focus of discussion today.
 
-## Objetivo
+## Development
 
-Ademas de cumplir con los objetivos propuestos por el desafio, nos planteamos que el desarrollo del videjuego este basado en soluciones cuya factibilidad de realizacion sea foco de discusion en la actualidad.
-
-
-## Desarrollo
-Como punto de partida para llevar a cabo el videojuego se trabajo sobre datos obtenidos a traves de la plataforma **NASA SPACEBIRDS** , los cuales fueron la velocidad a la que viajan, a que distancia de la tierra se encuentran y su prosedencia, procurando mostrarlos en pantalla al usuario.
-El videojuego se basa en el control por parte del jugador de un satelite recolector de basura espacial, el cual operará el en rango de orbitas **LEO** (low Earth orbit). Decidimos situar el desarrollo de el mismo en esta orbita dado a que mas del 70% de la basura espacial localizada se encuentra en ella y es mas economico enviar satelites alli en comparacion con , como por ejemplo, orbita **GEO**.
-El objetivo sera el de recolectar objetos pequeños. A partir de los 101 mm. (4 in.) los objetos comienzan a poder ser detectados por *Agencia de vigilancia espacial de los Estados Unidos* y por lo tanto, conocer su ubicacion en tiempo real. 
+As a starting point to carry out the video game, we worked on data obtained through the **NASA SPACEBIRDS** platform, which were the speed at which they travel, how far from the earth they are and their continuity, seeking show them on screen to the user.
+The videogame is based on the player's control of a space garbage collection satellite, which will operate in the range of orbits **LEO** (low Earth orbit). We decided to place its development in this orbit given that more than 70% of the local space debris is in it and it is cheaper to send satellites there compared to, for example, orbit ** GEO **.
+The objective will be to collect small objects. From 101 mm. (4 in.) Objects begin to be detected by _United States Space Surveillance Agency_ and therefore, know their location in real time.
 
 <p align="center">
-    <img src="https://drive.google.com/uc?export=view&id=1EkupAMFfBh7xTrbJwieMa_PAFZvunTRX" alt="Basura en el espacio">
+    <img width=1000px src="https://drive.google.com/uc?export=view&id=1EkupAMFfBh7xTrbJwieMa_PAFZvunTRX" alt="Basura en el espacio">
 </p>
 
-Concientes de que en la actualidad la unica manera de desplazarce por el espacio es mediante la impulsion de masa. Nuestra nave eyectará una parte de las particulas recolectadas, para poder mantenerse en orbita y moverse a otras superiores . De ser necesario propulsarse a orbitas inferiores contara con un sistema que no requiera este tipo de propulsión ya que las particulas se alejarian de la atmosfera y no se incinerarian.
- Se supondra que todos los sistemas del satelite seran alimentados con energia solar.
- Se tendra en cuenta el hecho de que al estar en la misma orbita que otro objeto, la distancia entre este y nuestro satelite no variará debido a que se estaran desplazando a la misma velocidad. 
- Con el fin de ejemplificar e insentivar a los usuarios a pensar proyectos con un fin economico que sirvan como solucion al problema, el resto de la masa recolectada sera utilizada como materia prima en un emprendimiento de venta de estrellas fugaces a pedido, las cuales seran producto de propulsar la carga hacia la atmosfera y ser incinerada por esta, generando el haz de luz deseado.
+Aware that at present the only way to move through space is by means of mass impulse. Our ship will eject a part of the collected particles, to be able to stay in orbit and move to other superiors. If necessary, propel themselves to lower orbits, it will have a system that does not require this type of propulsion since the particles would move away from the atmosphere and would not be incinerated.
+It will be assumed that all satellite systems will be powered by solar energy.
+It will take into account the fact that being in the same orbit as another object, the distance between it and our satellite will not vary because they will be traveling at the same speed.
+In order to exemplify and insentivate users to think about projects with an economic purpose that serve as a solution to the problem, the rest of the mass collected will be used as raw material in a venture to sell shooting stars on demand, which will be a product to propel the charge into the atmosphere and be incinerated by it, generating the desired beam of light.
 
-
-
-## Acerca del equipo
+## About Us
 
 <table>
   <th>
-    <td>
-      Datos
+    <td width=400px>
+      Information
     </td>
     <td>
-      Imagen
+      Image
     </td>
   </th>
   <tr>
     <td>
-      Nombre
+      Name
     </td>
     <td>
       Cunha de Meira, Katylin Rainara
     </td>
-	<td rowspan=5>
-		<img width=120px src="https://drive.google.com/uc?export=view&id=1r9TqXkWo2PPoCpjfUzmgUzZh4IGhYtxX" alt="Diagrama de Casos de Uso - CTM">
-	</td>
- </tr>
- <tr>
-	<td>
-    	Edad
-	</td>
-	<td>
-    	22
-	</td>
+	  <td rowspan=5>
+		  <img width=150px src="https://drive.google.com/uc?export=view&id=1r9TqXkWo2PPoCpjfUzmgUzZh4IGhYtxX" alt="Integrante">
+	  </td>
   </tr>
   <tr>
-	<td>
-    	Lugar de nacimiento
-	</td>
-	<td>
+	  <td>
+    	Age
+	  </td>
+	  <td>
+    	22
+	  </td>
+  </tr>
+  <tr>
+	  <td>
+    	Birthplace
+	  </td>
+	  <td>
     	São Roque, São Paulo, Brasil
-	</td>
+	  </td>
   </tr>
-   <tr>
-	<td>
-    	Carrera
-	</td>
-	<td>
-    	Ingenieria Mecanica
-	</td>
+  <tr>
+	  <td>
+    	Career
+	  </td>
+	  <td>
+    	Mechanical Engineering
+	  </td>
   </tr>
-   <tr>
-	<td>
-    	¿Por qué te anotaste?
-	</td>
-	<td>
-	    Me encanta el trabajo en equipo y el aprendizaje	
-	</td>
+  <tr>
+	  <td>
+    	Why did you sign up?
+	  </td>
+	  <td>
+	    I love teamwork and learning
+	  </td>
   </tr>
-</table><table>
+</table>
+
+<table>
   <th>
-    <td>
-      Datos
+    <td width=400px>
+      Information
     </td>
     <td>
-      Imagen
+      Image
     </td>
   </th>
   <tr>
     <td>
-      Nombre
+      Name
     </td>
     <td>
       Custodio, Walter
     </td>
-	<td rowspan=5>
-		<img width=120px src="https://drive.google.com/uc?export=view&id=1q765WkN58BPlUlYng0zx6TbLF_Qd1Boz" alt="Diagrama de Casos de Uso - CTM">
-	</td>
- </tr>
- <tr>
-	<td>
-    	Edad
-	</td>
-	<td>
-    	25
-	</td>
+  	<td rowspan=5>
+	  	<img width=150px src="https://drive.google.com/uc?export=view&id=1q765WkN58BPlUlYng0zx6TbLF_Qd1Boz" alt="Integrante">
+	  </td>
   </tr>
   <tr>
-	<td>
-    	Lugar de nacimiento
-	</td>
-	<td>
+	  <td>
+      Age
+	  </td>
+	  <td>
+      25
+	  </td>
+  </tr>
+  <tr>
+	  <td>
+    	Birthplace
+	  </td>
+	  <td>
     	La Plata, Argentina
-	</td>
+	  </td>
   </tr>
-   <tr>
-	<td>
-    	Carrera
-	</td>
-	<td>
-    	Diseño Multimedial
-	</td>
+  <tr>
+	  <td>
+    	Career
+	  </td>
+	  <td>
+    	Multimedia Design
+	  </td>
   </tr>
-   <tr>
-	<td>
-    	¿Por qué te anotaste?
-	</td>
-	<td>
-	    ...	
-	</td>
+  <tr>
+	  <td>
+    	Why did you sign up?
+	  </td>
+	  <td>
+      Personal challenge
+	  </td>
   </tr>
 </table>
+
 <table>
   <th>
-    <td>
-      Datos
+    <td width=400px>
+      Information
     </td>
     <td>
-      Imagen
+      Image
     </td>
   </th>
   <tr>
     <td>
-      Nombre
+      Name
     </td>
     <td>
       Daruich, Valentina
     </td>
-	<td rowspan=5>
-		<img width=120px src="https://drive.google.com/uc?export=view&id=1naMpVnYY3Az0SiDZUg2AdO6o-6U509D1" alt="Diagrama de Casos de Uso - CTM">
-	</td>
- </tr>
- <tr>
-	<td>
-    	Edad
-	</td>
-	<td>
-    	26
-	</td>
+	  <td rowspan=5>
+		  <img width=150px src="https://drive.google.com/uc?export=view&id=1naMpVnYY3Az0SiDZUg2AdO6o-6U509D1" alt="Integrante">
+	  </td>
   </tr>
   <tr>
-	<td>
-    	Lugar de nacimiento
-	</td>
-	<td>
+	  <td>
+    	Age
+	  </td>
+	  <td>
+    	26
+	  </td>
+  </tr>
+  <tr>
+	  <td>
+    	Birthplace
+	  </td>
+	  <td>
     	Tres Arroyos, Argentina
-	</td>
+	  </td>
   </tr>
-   <tr>
-	<td>
-    	Carrera
-	</td>
-	<td>
-    	Diseño Multimedial
-	</td>
+  <tr>
+	  <td>
+    	Career
+	  </td>
+	  <td>
+    	Multimedia Design
+	  </td>
   </tr>
-   <tr>
-	<td>
-    	¿Por qué te anotaste?
-	</td>
-	<td>
-	    ...	
-	</td>
+  <tr>
+	  <td>
+      Why did you sign up?
+	  </td>
+	  <td>
+	    At the invitation of a partner.
+	  </td>
   </tr>
 </table>
+
 <table>
   <th>
-    <td>
-      Datos
+    <td width=400px>
+      Information
     </td>
     <td>
-      Imagen
+      Image
     </td>
   </th>
   <tr>
     <td>
-      Nombre
+      Name
     </td>
     <td>
       Difeo, Martin
     </td>
-	<td rowspan=5>
-		<img width=120px src="https://drive.google.com/uc?export=view&id=1OWchhXz4vuITGVMtG1OaG6H3v9WsLKRv" alt="Diagrama de Casos de Uso - CTM">
-	</td>
- </tr>
- <tr>
-	<td>
-    	Edad
-	</td>
-	<td>
-    	22
-	</td>
+	  <td rowspan=5>
+		  <img width=150px src="https://drive.google.com/uc?export=view&id=1OWchhXz4vuITGVMtG1OaG6H3v9WsLKRv" alt="Integrante">
+	  </td>
   </tr>
   <tr>
-	<td>
-    	Lugar de nacimiento
-	</td>
-	<td>
+	  <td>
+    	Age
+	  </td>
+    <td>
+        22
+    </td>
+  </tr>
+  <tr>
+	  <td>
+    	Birthplace
+	  </td>
+	  <td>
     	La Plata, Argentina
-	</td>
+	  </td>
   </tr>
-   <tr>
-	<td>
-    	Carrera
-	</td>
-	<td>
-    	Artes plasticas/Diseño de Escenografia
-	</td>
+  <tr>
+	  <td>
+    	Career
+	  </td>
+	  <td>
+    	Visual Arts/Scenography Design
+	  </td>
   </tr>
-   <tr>
-	<td>
-    	¿Por qué te anotaste?
-	</td>
-	<td>
-	    ...	
-	</td>
+  <tr>
+	  <td>
+    	Why did you sign up?
+	  </td>
+	  <td>
+	    A friend's invitation made me curious to come.
+	  </td>
   </tr>
 </table>
+
 <table>
   <th>
-    <td>
-      Datos
+    <td width=400px>
+      Information
     </td>
     <td>
-      Imagen
+      Image
     </td>
   </th>
   <tr>
     <td>
-      Nombre
+      Name
     </td>
     <td>
       Hernández Mejía, Carlos Alejandro
     </td>
-	<td rowspan=5>
-		<img width=120px src="https://drive.google.com/uc?export=view&id=1Nuo9jpZBUpDpfT2lU9OhbW81B7j2Px79" alt="Diagrama de Casos de Uso - CTM">
-	</td>
- </tr>
- <tr>
-	<td>
-    	Edad
-	</td>
-	<td>
-    	21
-	</td>
+    <td rowspan=5>
+      <img width=150px src="https://drive.google.com/uc?export=view&id=1Nuo9jpZBUpDpfT2lU9OhbW81B7j2Px79" alt="Integrante">
+    </td>
   </tr>
   <tr>
-	<td>
-    	Lugar de nacimiento
-	</td>
-	<td>
-    	Salvador
-	</td>
+	  <td>
+    	Age
+	  </td>
+	  <td>
+    	21
+	  </td>
   </tr>
-   <tr>
-	<td>
-    	Carrera
-	</td>
-	<td>
-    	Ingenieria en computacion
-	</td>
+  <tr>
+	  <td>
+    	Birthplace
+	  </td>
+	  <td>
+    	El Salvador, Centro América
+	  </td>
   </tr>
-   <tr>
-	<td>
-    	¿Por qué te anotaste?
-	</td>
-	<td>
-	    ...	
-	</td>
+  <tr>
+	  <td>
+    	Career
+	  </td>
+	  <td>
+    	Computer Engineering
+	  </td>
+  </tr>
+  <tr>
+	  <td>
+    	Why did you sign up?
+	  </td>
+	  <td>
+	    Why not come?
+	  </td>
   </tr>
 </table>
+
 <table>
   <th>
-    <td>
-      Datos
+    <td width=400px>
+      Information
     </td>
     <td>
-      Imagen
+      Image
     </td>
   </th>
   <tr>
     <td>
-      Nombre
+      Name
     </td>
     <td>
       Lacava, Tomas
     </td>
-	<td rowspan=5>
-		<img width=120px src="https://drive.google.com/uc?export=view&id=1ADMIdRxNr-CJlre6usgOm_wW27I0C6Eh" alt="Diagrama de Casos de Uso - CTM">
-	</td>
- </tr>
- <tr>
-	<td>
-    	Edad
-	</td>
-	<td>
-    	25
-	</td>
+    <td rowspan=5>
+      <img width=150px src="https://drive.google.com/uc?export=view&id=1ADMIdRxNr-CJlre6usgOm_wW27I0C6Eh" alt="Integrante">
+    </td>
   </tr>
   <tr>
-	<td>
-    	Lugar de nacimiento
-	</td>
-	<td>
+	  <td>
+    	Age
+	  </td>
+	  <td>
+    	25
+	  </td>
+  </tr>
+  <tr>
+	  <td>
+    	Birthplace
+	  </td>
+	  <td>
     	Chivilvoy
-	</td>
+	  </td>
   </tr>
-   <tr>
-	<td>
-    	Carrera
-	</td>
-	<td>
-    	Ingenieria Mecanica
-	</td>
+  <tr>
+	  <td>
+    	Career
+	  </td>
+	  <td>
+    	Mechanical Engineering
+	  </td>
   </tr>
-   <tr>
-	<td>
-    	¿Por qué te anotaste?
-	</td>
-	<td>
-	    ...	
-	</td>
+  <tr>
+	  <td>
+    	Why did you sign up?
+	  </td>
+	  <td>
+	    I was always interested in space and programming, and the SpaceAppsChallenge is a good mix of both.
+	  </td>
   </tr>
 </table>
 
-
 <table>
   <th>
-    <td>
-      Datos
+    <td width=400px>
+      Information
     </td>
     <td>
-      Imagen
+      Image
     </td>
   </th>
   <tr>
     <td>
-      Nombre
+      Name
     </td>
     <td>
       Marengo, Augusto
     </td>
-	<td rowspan=5>
-		<img width=120px src="https://drive.google.com/uc?export=view&id=1F_pv6Ou6WqnI8aPKU5_T-4in8LpYxbr5" alt="Diagrama de Casos de Uso - CTM">
-	</td>
- </tr>
- <tr>
-	<td>
-    	Edad
-	</td>
-	<td>
-    	25
-	</td>
+	  <td rowspan=5>
+		  <img width=150px src="https://drive.google.com/uc?export=view&id=1F_pv6Ou6WqnI8aPKU5_T-4in8LpYxbr5" alt="Integrante">
+	  </td>
   </tr>
   <tr>
-	<td>
-    	Lugar de nacimiento
-	</td>
-	<td>
+	  <td>
+    	Age
+	  </td>
+	  <td>
+    	25
+	  </td>
+  </tr>
+  <tr>
+	  <td>
+    	Birthplace
+	  </td>
+	  <td>
     	Trenque Lauquen
-	</td>
+	  </td>
   </tr>
-   <tr>
-	<td>
-    	Carrera
-	</td>
-	<td>
-    	Ingenieria Mecanica
-	</td>
+  <tr>
+	  <td>
+    	Career
+	  </td>
+	  <td>
+    	Mechanical Engineering
+	  </td>
   </tr>
-   <tr>
-	<td>
-    	¿Por qué te anotaste?
-	</td>
-	<td>
-	    ...	
-	</td>
+  <tr>
+	  <td>
+    	Why did you sign up?
+	  </td>
+	  <td>
+	    The event caught my attention and I really like collaborative challenges.
+	  </td>
   </tr>
 </table>
 
 <table>
   <th>
-    <td>
-      Datos
+    <td width=400px>
+      Information
     </td>
     <td>
-      Imagen
+      Image
     </td>
   </th>
   <tr>
     <td>
-      Nombre
+      Name
     </td>
     <td>
       Ortiz, Gabriel
     </td>
-	<td rowspan=5>
-		<img width=120px src="https://drive.google.com/uc?export=view&id=1Ekw4ZRRGvGNzT1uhOgZetAKEOO5eSRqz" alt="Diagrama de Casos de Uso - CTM">
-	</td>
- </tr>
- <tr>
-	<td>
-    	Edad
-	</td>
-	<td>
-    	...
-	</td>
+    <td rowspan=5>
+      <img width=150px src="" alt="Integrante">
+    </td>
   </tr>
   <tr>
-	<td>
-    	Lugar de nacimiento
-	</td>
-	<td>
+	  <td>
+    	Age
+	  </td>
+	  <td>
     	...
-	</td>
+	  </td>
   </tr>
-   <tr>
-	<td>
-    	Carrera
-	</td>
-	<td>
+  <tr>
+	  <td>
+    	Birthplace
+	  </td>
+	  <td>
     	...
-	</td>
+	  </td>
   </tr>
-   <tr>
-	<td>
-    	¿Por qué te anotaste?
-	</td>
-	<td>
+  <tr>
+	  <td>
+    	Career
+	  </td>
+	  <td>
+    	...
+	  </td>
+  </tr>
+  <tr>
+  	<td>
+    	Why did you sign up?
+	  </td>
+	  <td>
 	    ...	
-	</td>
+	  </td>
   </tr>
 </table>
+
 <table>
   <th>
-    <td>
-      Datos
+    <td width=400px>
+      Information
     </td>
     <td>
-      Imagen
+      Image
     </td>
   </th>
   <tr>
     <td>
-      Nombre
+      Name
     </td>
     <td>
       Salto,Emanuel
     </td>
-	<td rowspan=5>
-		<img width=120px src="https://drive.google.com/uc?export=view&id=1VqeSk1tZvB0zAapYVtegxJdN6rWgxvIu" alt="Diagrama de Casos de Uso - CTM">
-	</td>
- </tr>
- <tr>
-	<td>
-    	Edad
-	</td>
-	<td>
-    	25
-	</td>
+	  <td rowspan=5>
+		  <img width=150px src="https://drive.google.com/uc?export=view&id=1VqeSk1tZvB0zAapYVtegxJdN6rWgxvIu" alt="Integrante">
+	  </td>
   </tr>
   <tr>
-	<td>
-    	Lugar de nacimiento
-	</td>
-	<td>
+	  <td>
+    	Age
+	  </td>
+	  <td>
+    	25
+	  </td>
+  </tr>
+  <tr>
+	  <td>
+    	Birthplace
+	  </td>
+	  <td>
     	La Plata, Argentina
-	</td>
+	  </td>
+  </tr>
+  <tr>
+	  <td>
+    	Career
+	  </td>
+	  <td>
+    	Mechanical Engineering
+	  </td>
   </tr>
    <tr>
-	<td>
-    	Carrera
-	</td>
-	<td>
-    	...
-	</td>
-  </tr>
-   <tr>
-	<td>
-    	¿Por qué te anotaste?
-	</td>
-	<td>
-	    ...	
-	</td>
+	  <td>
+    	Why did you sign up?
+	  </td>
+	  <td>
+	    I wanted to use my head and left the challenge to luck with a coin.
+	  </td>
   </tr>
 </table>
 
-        
-    
+# _"El espacio que rodea a la Tierra es un recurso natural para ser preservado"_
 
+## Material de consulta
 
+**Nasa Spacebirds**
+[https://worldwind.arc.nasa.gov/spacebirds/index.html#](https://worldwind.arc.nasa.gov/spacebirds/index.html#)
 
-
-# *"El espacio que rodea a la Tierra es un recurso natural para ser preservado"*
-
-##  Material de consulta
-
- **Nasa Spacebirds**
- [https://worldwind.arc.nasa.gov/spacebirds/index.html#](https://worldwind.arc.nasa.gov/spacebirds/index.html#)
- 
 **Artículo sobre basura espacial de la NASA Headquarters Library**
 [https://www.nasa.gov/centers/hq/library/find/bibliographies/space_debris](https://www.nasa.gov/centers/hq/library/find/bibliographies/space_debris)
 
-**Artículo publicado por  Nasa sobre escombros espaciales y naves espaciales humanas**
+**Artículo publicado por Nasa sobre escombros espaciales y naves espaciales humanas**
 [https://www.nasa.gov/mission_pages/station/news/orbital_debris.html](https://www.nasa.gov/mission_pages/station/news/orbital_debris.html)
