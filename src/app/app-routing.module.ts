@@ -9,15 +9,7 @@ import { GameComponent } from './content/game/game.component';
 const routes: Routes = [
   {
     path: '',
-    component: HomeComponent
-  },
-  {
-    path: 'game',
-    component: GameComponent
-  },
-  {
-    path: 'about',
-    component: AboutUsComponent
+    loadChildren: () => import('./content/content.module').then(c => c.ContentModule)
   },
   {
     path: 'not-found',

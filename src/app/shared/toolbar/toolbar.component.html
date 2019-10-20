@@ -2,7 +2,7 @@
   <a
     class="navbar-brand"
     routerLink="/">
-    <img class="brand" src="assets/images/SpaceAppsChallengeLP.png" alt="">
+    <img class="brand" src="./assets/images/SpaceAppsChallengeLP.png" alt="">
     {{ title }}
   </a>
 
@@ -23,16 +23,14 @@
     [ngbCollapse]="isNavbarCollapsed">
     <ul class="navbar-nav ml-auto">
       <li class="nav-item">
-        <a
-          routerLink="/"
+        <a routerLink="/"
           routerLinkActive="active"
           class="nav-link">
           Inicio
         </a>
       </li>
       <li class="nav-item">
-        <a
-          routerLink="/game"
+        <a routerLink="game"
           routerLinkActive="active"
           class="nav-link">
           Jugar
@@ -40,7 +38,7 @@
       </li>
       <li class="nav-item">
         <a
-          routerLink="/about"
+          routerLink="about"
           routerLinkActive="active"
           class="nav-link">
           Sobre Nosotros
