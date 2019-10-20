@@ -9,22 +9,4 @@ export class Orbital {
   public desecho?: Desecho;
   public entro: Punto;
 
-  constructor(
-    radio: number,
-    numero: number,
-    color: string,
-    desecho: Desecho,
-    centro: Punto
-  ){
-    this(radio, numero, color, centro);
-    this.desecho = desecho;
-  }
-  constructor(
-    radio: number,
-    numero: number,
-    color: string,
-    centro: Punto
-  ){
-    this.radio = radio;
-  }
 }
