@@ -1,13 +1,14 @@
-import { Component, OnInit, ViewEncapsulation, Output } from '@angular/core';
+import { Component, OnInit, Output } from '@angular/core';
 import { NgbModal } from '@ng-bootstrap/ng-bootstrap';
 
 @Component({
   selector: 'app-game',
   templateUrl: './game.component.html',
-  encapsulation: ViewEncapsulation.None,
   styleUrls: ['./game.component.css']
 })
 export class GameComponent implements OnInit {
+  @Output()
+  textBtnLaunch = 'View Tutorial';
   @Output()
   title = 'ScrapFisher - MANUAL';
   @Output()
@@ -99,13 +100,10 @@ export class GameComponent implements OnInit {
     <button type="button" class="btn btn-light" (click)="modal.close('Close click')">Cerrar</button>
   `;
 
-  constructor(private modalService: NgbModal) { }
+  constructor() { }
 
   ngOnInit() {
   }
 
-  openScrollableContent(longContent) {
-    this.modalService.open(longContent, { scrollable: true, size: 'lg' });
-  }
 
 }

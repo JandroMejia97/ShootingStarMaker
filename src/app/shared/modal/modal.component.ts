@@ -10,6 +10,8 @@ import { NgbModal } from '@ng-bootstrap/ng-bootstrap';
 export class ModalOptionsComponent implements OnInit{
   closeResult: string;
   @Input()
+  textBtnLaunch: string;
+  @Input()
   title: string;
   @Input()
   body: string;
@@ -48,6 +50,6 @@ export class ModalOptionsComponent implements OnInit{
   }
 
   openScrollableXLContent(longContent) {
-    this.modalService.open(longContent, { scrollable: true, size: 'lg' });
+    this.modalService.open(longContent, { scrollable: true, size: 'xl' });
   }
 }
