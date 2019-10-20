@@ -9,7 +9,7 @@ import { NgbModal } from '@ng-bootstrap/ng-bootstrap';
 })
 export class GameComponent implements OnInit {
   @Output()
-  title = 'Basur.ON 315 - MANUAL';
+  title = 'ScrapFisher - MANUAL';
   @Output()
   body = `
   <h2 id="introduction">Introduction</h2>
