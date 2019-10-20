@@ -50,7 +50,7 @@ Concientes de que en la actualidad la unica manera de desplazarce por el espacio
       Cunha de Meira, Katylin Rainara
     </td>
 	<td rowspan=5>
-		<img height=120px src="https://drive.google.com/uc?export=view&id=1r9TqXkWo2PPoCpjfUzmgUzZh4IGhYtxX" alt="Diagrama de Casos de Uso - CTM">
+		<img width=120px src="https://drive.google.com/uc?export=view&id=1r9TqXkWo2PPoCpjfUzmgUzZh4IGhYtxX" alt="Diagrama de Casos de Uso - CTM">
 	</td>
  </tr>
  <tr>
@@ -102,7 +102,7 @@ Concientes de que en la actualidad la unica manera de desplazarce por el espacio
       Custodio, Walter
     </td>
 	<td rowspan=5>
-		<img height=120px src="https://drive.google.com/uc?export=view&id=1q765WkN58BPlUlYng0zx6TbLF_Qd1Boz" alt="Diagrama de Casos de Uso - CTM">
+		<img width=120px src="https://drive.google.com/uc?export=view&id=1q765WkN58BPlUlYng0zx6TbLF_Qd1Boz" alt="Diagrama de Casos de Uso - CTM">
 	</td>
  </tr>
  <tr>
@@ -155,7 +155,7 @@ Concientes de que en la actualidad la unica manera de desplazarce por el espacio
       Daruich, Valentina
     </td>
 	<td rowspan=5>
-		<img height=120px src="https://drive.google.com/uc?export=view&id=1naMpVnYY3Az0SiDZUg2AdO6o-6U509D1" alt="Diagrama de Casos de Uso - CTM">
+		<img width=120px src="https://drive.google.com/uc?export=view&id=1naMpVnYY3Az0SiDZUg2AdO6o-6U509D1" alt="Diagrama de Casos de Uso - CTM">
 	</td>
  </tr>
  <tr>
@@ -208,7 +208,7 @@ Concientes de que en la actualidad la unica manera de desplazarce por el espacio
       Difeo, Martin
     </td>
 	<td rowspan=5>
-		<img height=120px src="https://drive.google.com/uc?export=view&id=1OWchhXz4vuITGVMtG1OaG6H3v9WsLKRv" alt="Diagrama de Casos de Uso - CTM">
+		<img width=120px src="https://drive.google.com/uc?export=view&id=1OWchhXz4vuITGVMtG1OaG6H3v9WsLKRv" alt="Diagrama de Casos de Uso - CTM">
 	</td>
  </tr>
  <tr>
@@ -261,7 +261,7 @@ Concientes de que en la actualidad la unica manera de desplazarce por el espacio
       Hernández Mejía, Carlos Alejandro
     </td>
 	<td rowspan=5>
-		<img height=120px src="https://drive.google.com/uc?export=view&id=1Nuo9jpZBUpDpfT2lU9OhbW81B7j2Px79" alt="Diagrama de Casos de Uso - CTM">
+		<img width=120px src="https://drive.google.com/uc?export=view&id=1Nuo9jpZBUpDpfT2lU9OhbW81B7j2Px79" alt="Diagrama de Casos de Uso - CTM">
 	</td>
  </tr>
  <tr>
@@ -314,7 +314,7 @@ Concientes de que en la actualidad la unica manera de desplazarce por el espacio
       Lacava, Tomas
     </td>
 	<td rowspan=5>
-		<img height=120px src="https://drive.google.com/uc?export=view&id=1ADMIdRxNr-CJlre6usgOm_wW27I0C6Eh" alt="Diagrama de Casos de Uso - CTM">
+		<img width=120px src="https://drive.google.com/uc?export=view&id=1ADMIdRxNr-CJlre6usgOm_wW27I0C6Eh" alt="Diagrama de Casos de Uso - CTM">
 	</td>
  </tr>
  <tr>
@@ -369,7 +369,7 @@ Concientes de que en la actualidad la unica manera de desplazarce por el espacio
       Marengo, Augusto
     </td>
 	<td rowspan=5>
-		<img height=120px src="https://drive.google.com/uc?export=view&id=1F_pv6Ou6WqnI8aPKU5_T-4in8LpYxbr5" alt="Diagrama de Casos de Uso - CTM">
+		<img width=120px src="https://drive.google.com/uc?export=view&id=1F_pv6Ou6WqnI8aPKU5_T-4in8LpYxbr5" alt="Diagrama de Casos de Uso - CTM">
 	</td>
  </tr>
  <tr>
@@ -423,7 +423,7 @@ Concientes de que en la actualidad la unica manera de desplazarce por el espacio
       Ortiz, Gabriel
     </td>
 	<td rowspan=5>
-		<img height=120px src="https://drive.google.com/uc?export=view&id=1Ekw4ZRRGvGNzT1uhOgZetAKEOO5eSRqz" alt="Diagrama de Casos de Uso - CTM">
+		<img width=120px src="https://drive.google.com/uc?export=view&id=1Ekw4ZRRGvGNzT1uhOgZetAKEOO5eSRqz" alt="Diagrama de Casos de Uso - CTM">
 	</td>
  </tr>
  <tr>
@@ -476,7 +476,7 @@ Concientes de que en la actualidad la unica manera de desplazarce por el espacio
       Salto,Emanuel
     </td>
 	<td rowspan=5>
-		<img height=120px src="https://drive.google.com/uc?export=view&id=1VqeSk1tZvB0zAapYVtegxJdN6rWgxvIu" alt="Diagrama de Casos de Uso - CTM">
+		<img width=120px src="https://drive.google.com/uc?export=view&id=1VqeSk1tZvB0zAapYVtegxJdN6rWgxvIu" alt="Diagrama de Casos de Uso - CTM">
 	</td>
  </tr>
  <tr>
