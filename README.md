@@ -27,6 +27,19 @@ It will be assumed that all satellite systems will be powered by solar energy.
 It will take into account the fact that being in the same orbit as another object, the distance between it and our satellite will not vary because they will be traveling at the same speed.
 In order to exemplify and insentivate users to think about projects with an economic purpose that serve as a solution to the problem, the rest of the mass collected will be used as raw material in a venture to sell shooting stars on demand, which will be a product to propel the charge into the atmosphere and be incinerated by it, generating the desired beam of light.
 
+### **Prototypes of the space debris satellite**
+#### Collecting mechanism
+<img width=800px src="https://drive.google.com/uc?export=view&id=1G0YDjEX_sUTnOPO61p7of4ERPp5HzrhD" alt="Collecting mechanism">
+
+#### Decapping of collecting capsule
+<img width=800px src="https://drive.google.com/uc?export=view&id=1UFUqjO7f24M-M6UUQbsoL8pXLA3BDg50" alt="Decapping of collecting capsule">
+
+#### General view, with deployment of energy supply mechanism
+<img width=800px src="https://drive.google.com/uc?export=view&id=1AQ016ENS-65X_TxK3zehawu3eRfjn5N3" alt="General view, with deployment of energy supply mechanism">
+
+### **Project Estructure**
+<img width=600px src="https://drive.google.com/uc?export=view&id=1FFdSMCzHKafg7uJu0n7NMIuYrHHw9U0g" alt="Diagrama del sistema">
+
 ## About Us
 
 <table>
@@ -516,12 +529,9 @@ In order to exemplify and insentivate users to think about projects with an econ
 </table>
 
 
-# _"El espacio que rodea a la Tierra es un recurso natural que debe ser preservado"_
+# _"The space surrounding the Earth is a natural resource that must be preserved"_
 
-## Material de consulta
-
-**Project Estructure**
-<img width=600px src="https://drive.google.com/uc?export=view&id=1FFdSMCzHKafg7uJu0n7NMIuYrHHw9U0g" alt="Integrante">
+## Reference material
 
 **Read the game manual of the game video**
 [https://github.com/JandroMejia97/ShootingStarMaker/blob/master/MANUAL.md](https://github.com/JandroMejia97/ShootingStarMaker/blob/master/MANUAL.md)
@@ -529,8 +539,10 @@ In order to exemplify and insentivate users to think about projects with an econ
 **Nasa Spacebirds**
 [https://worldwind.arc.nasa.gov/spacebirds/index.html#](https://worldwind.arc.nasa.gov/spacebirds/index.html#)
 
-**Artículo sobre basura espacial de la NASA Headquarters Library**
+**Article on space junk from the NASA Headquarters Library**
 [https://www.nasa.gov/centers/hq/library/find/bibliographies/space_debris](https://www.nasa.gov/centers/hq/library/find/bibliographies/space_debris)
 
-**Artículo publicado por Nasa sobre escombros espaciales y naves espaciales humanas**
+**Article published by NASA about space debris and human spaceships**
 [https://www.nasa.gov/mission_pages/station/news/orbital_debris.html](https://www.nasa.gov/mission_pages/station/news/orbital_debris.html)
+
+**__The design of the prototype and the system have been of own elaboration. &copy; All rights reserved.__**
