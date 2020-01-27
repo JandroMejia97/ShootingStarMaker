@@ -7,16 +7,25 @@ import * as p5 from 'p5';
   styleUrls: ['./demo.component.css']
 })
 export class DemoComponent implements OnInit {
-  public canvas;
-  private tamPlaneta: number;
-  private tamAsteroide: number;
-  public tamOrbitas: Array<number> = [500, 150, 300];
-  private i = 0;
-  private orbitas = [];
-  private planeta = 50;
-  private rotaciones = [];
+    private canvas;
+    private tamPlaneta;
+    private tamAsteroide;
+    private tamOrbitas;
+    private i;
+    private orbitas;
+    private planeta;
+    private rotaciones;
 
-  constructor() { }
+  constructor(
+
+  ) {
+    this.tamPlaneta = 50;
+    this.tamAsteroide = 10;
+    this.tamOrbitas = [500, 150, 300];
+    this.i = 0;
+    this.orbitas = [];
+    this.rotaciones = [];
+  }
 
   ngOnInit() {
     this.createCanvas();
@@ -35,22 +44,24 @@ export class DemoComponent implements OnInit {
       p.fill(0, 0, 0, 0);
       p.translate(p.width / 2, p.height / 2);
 
-      this.orbitas = [p.circle(0, 0, this.tamOrbitas[0]), p.circle(0, 0, p.mouseY), p.circle(0, 0, this.tamOrbitas[2])];
+      p.circle(0, 0, 500);
+      p.circle(0, 0, p.mouseY);
+      p.circle(0, 0, 300);
+
       p.fill(0, 0, 0, 255);
 
-      this.planeta = p.circle(0, 0, this.tamPlaneta);
+      p.circle(0, 0, 50);
       p.fill(255, 0, 0);
-      p.circle(0, -p.mouseY / 2, this.tamAsteroide);
+      p.circle(0, -p.mouseY / 2, 10);
       p.fill(0, 255, 0);
 
-      this.rotaciones.push((this.tamOrbitas[2] - p.mouseY) * 0.001 * this.i);
-      p.rotate(this.rotaciones[0]);
-      p.circle(-this.tamOrbitas[2] / 2, 0, this.tamAsteroide);
-      p.rotate(-this.rotaciones[0]);
+      p.rotate((300 - p.mouseY) * 0.001 * this.i);
+      p.circle(-300 / 2, 0, 10);
+      p.rotate(-(300 - p.mouseY) * 0.001 * this.i);
 
-      this.rotaciones.push((this.tamOrbitas[0] - p.mouseY) * 0.001 * this.i);
-      p.rotate(this.rotaciones[1]);
-      p.circle(this.tamOrbitas[0] / 2, 0, this.tamAsteroide);
+      p.rotate(-(500 - p.mouseY) * 0.001 * this.i);
+      p.circle(500 / 2, 0, 10);
+      p.rotate((500 - p.mouseY) * 0.001 * this.i);
       this.i += 0.1;
 
     };
